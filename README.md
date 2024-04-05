@@ -44,7 +44,7 @@
   ```
   Clone Repo
   ```
-  git clone https://github.com/russianvivi/bc2rome.git
+  git clone https://github.com/knakkwurst/bc2rome.git
   ```
   Get Docker Image
   ```
