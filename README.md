@@ -61,7 +61,7 @@ sudo docker container run -p 19567:19567 -p 48888:48888/tcp -v "./Instance:/proj
 ```
 It may be that some distributions need the absolute path
 ```
-sudo docker container run -p 19567:19557 -p 48888:48888/tcp -v "<absolutePath>bc2rome/Instance:/project/R34_Full/Instance" russianvivi/bc2rome:latest
+sudo docker container run -p 19567:19567 -p 48888:48888/tcp -v "<absolutePath>bc2rome/Instance:/project/R34_Full/Instance" russianvivi/bc2rome:latest
 ```
 
 To determ the container id run:
